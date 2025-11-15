@@ -57,5 +57,5 @@ An interactive Power BI dashboard summarizes and visualizes the major insights (
 ### Steps
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/charankck/Analysis-of-Customer-behaviour.git
+   cd Analysis-of-Customer-behaviour

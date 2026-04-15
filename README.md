@@ -9,6 +9,11 @@
 This project analyzes customer shopping behavior using transactional data (3,900 purchases) across product categories to extract insights on spending patterns, customer segments, product preferences, and subscription behavior. The analysis combines Python-based EDA and preprocessing, PostgreSQL business queries, and a Power BI dashboard for visualization. :contentReference[oaicite:2]{index=2}
 
 ---
+##Screenshot
+![Dashboard](Screenshot(378).png)
+
+
+---
 
 ## 📦 Dataset
 - **Rows:** 3,900  
